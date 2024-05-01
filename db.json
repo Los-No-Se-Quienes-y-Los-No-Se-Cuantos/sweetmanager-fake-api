@@ -4,5 +4,19 @@
       "id": 1,
       "name": "John Doe"
     }
+  ],
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Cozy Cottage",
+      "description": "A charming retreat in the countryside",
+      "price": 75,
+      "worker": "John Doe",
+      "client": "Alice Smith",
+      "totalBeds": 2,
+      "totalBathrooms": 1,
+      "totalTelevision": 1,
+      "isBusy": false
+    }
   ]
 }
