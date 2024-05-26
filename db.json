@@ -101,5 +101,25 @@
       "cvc": 587,
       "email": "dev@ryzeon.me"
     }
+  ],
+  "subscriptions":[
+    {
+      "id": 1,
+      "title": "BASIC"
+      "price": 111.69,
+      "description": "DataBase with 500 GB of storage"
+    },
+    {
+      "id": 2,
+      "title": "REGULAR",
+      "price": 222.31,
+      "description": "DataBase with 1 TB of storage"
+    },
+    {
+      "id": "3",
+      "title": "PREEMIUM",
+      "price": 370.54,
+      "description": "DataBase with 5TB of storage"
+    }
   ]
 }
