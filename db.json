@@ -91,5 +91,15 @@
       "address": "Almacen B",
       "expire": "07/12/2025"
     }
+  ],
+  "payments":[
+    {
+      "idTitular": 1,
+      "titularName": "Alex Avila",
+      "targetAccount": "2716760600591414",
+      "expirationDate": "07/07/2024",
+      "cvc": 587,
+      "email": "dev@ryzeon.me"
+    }
   ]
 }
