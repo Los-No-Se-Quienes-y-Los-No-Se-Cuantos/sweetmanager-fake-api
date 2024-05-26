@@ -105,7 +105,7 @@
   "subscriptions":[
     {
       "id": 1,
-      "title": "BASIC"
+      "title": "BASIC",
       "price": 111.69,
       "description": "DataBase with 500 GB of storage"
     },
