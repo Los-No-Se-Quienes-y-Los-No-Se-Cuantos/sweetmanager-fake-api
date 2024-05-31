@@ -79,15 +79,17 @@
   "supplies": [
     {
       "id": 1,
-      "product": "Patatas",
+      "product": "Jabon",
       "quantity": 500,
       "address": "Almacen A",
+      "price": 2,
       "expire": "03/05/2025"
     },
     {
       "id": 2,
       "product": "Shampoo",
       "quantity": 300,
+      "price": 8,
       "address": "Almacen B",
       "expire": "07/12/2025"
     }
